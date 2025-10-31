@@ -87,7 +87,7 @@ int main()
 	Numbers<Point, Point> obj2(Point(1, 2), Point(3, 4));
 	obj2.Output();
 
-	Point obj3(10, 2);
+	Point obj3(6, 7);
 	obj3.InitRandom();
 	obj3.Output();
 }
